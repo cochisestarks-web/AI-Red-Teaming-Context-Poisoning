@@ -1,5 +1,5 @@
 # AI Safety & Red Team Evaluation: Comprehensive Scenario Analysis
-## From Derek's Claude Conversation (Dec 16-18, 2024)
+## From Derek's Claude Conversation (Dec 16-18, 2025)
 
 ---
 
