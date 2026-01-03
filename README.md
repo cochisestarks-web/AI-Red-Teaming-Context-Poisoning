@@ -1,9 +1,19 @@
 # Project: Long-Context Behavioral Auditing & Red-Teaming
 > **Investigating Epistemic Stability and Attractor States in Frontier Models**
 
+# Context Poisoning: Inverse Adversarial Vulnerabilities in LLM Safety Training
+
+> **Latest Update (Jan 3, 2026):** Full technical documentation published
+> 
+> 📊 [METHODOLOGY.md](METHODOLOGY.md) - Research protocol & testing phases  
+> 🔍 [VALIDATION.md](VALIDATION.md) - Architectural confirmation via leaked system prompt  
+> 📝 [LinkedIn Discussion](https://www.linkedin.com/posts/derek-loa-295646317_airesearch-llmsafety-aialignment-activity-7413327312005398528-G0cB)
+
 ---
 
-## 📖 Overview
+## Overview
+
+---
 This repository contains a comprehensive behavioral audit of **Claude 4.5**, spanning **2,600 interaction turns** over a 48-hour period. By treating the long-form conversation as a dynamic data structure, I identified 12 distinct failure modes and architectural limitations that standard benchmarks often fail to capture.
 
 ## 🔍 Key Research Findings
