@@ -29,6 +29,7 @@ I am currently transitioning into **AI Safety, Red Teaming, and Model Evaluation
 
 ---
 *Created by [Derek Loa]*
+
 #Let's Connect
 
 I am actively seeking opportunities in Red Teaming, Model Evaluation, and AI Safety Research.
