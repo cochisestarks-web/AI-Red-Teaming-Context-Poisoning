@@ -19,7 +19,7 @@ This repository contains a comprehensive behavioral audit of **Claude 4.5**, spa
 | :--- | :--- |
 | 📄 **[Full Interaction Log (Raw Data)](https://github.com/cochisestarks-web/AI-Red-Teaming-Context-Poisoning/blob/main/ClaudeRAWchat.txt)** | The complete 2,600-line dataset for reproducibility and audit purposes. |
 | 📝 **[red_team_scenarios_analysis.md](./red_team_scenarios_analysis.md)** | Core technical report detailing 12 testable scenarios and methodology. |
-| 🔬 **[context_poisoning_case_study.md](./context_poisoning_case_study.md)** | Deep-dive into the "Nemotron-3" test and "Inverse Adversarial" failure modes. |
+| 🔬 **[context_poisoning_case_study.md](https://github.com/cochisestarks-web/AI-Red-Teaming-Context-Poisoning/blob/main/%23%20Context%20Poisoning.md)** | Deep-dive into the "Nemotron-3" test and "Inverse Adversarial" failure modes. |
 
 ---
 
