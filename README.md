@@ -12,7 +12,7 @@ This repository contains a comprehensive behavioral audit of Claude 4.5, spannin
 ## Repository Structure
 * **[red_team_scenarios_analysis.md](./red_team_scenarios_analysis.md)**: The core technical report detailing 12 testable scenarios and the systems analysis methodology.
 * **[context_poisoning_case_study.md](./context_poisoning_case_study.md)**: A deep-dive into the "Nemotron-3" test, illustrating the "Inverse Adversarial" failure mode.
-* **[Full Interaction Log (Raw Data)]((./AI-Red-Teaming-Context-Poisoning/blob/main/ClaudeRAWchat.txt))**: The complete 2,600-line dataset for reproducibility and audit purposes.
+* **[Full Interaction Log (Raw Data)]((./ClaudeRAWchat.txt))**: The complete 2,600-line dataset for reproducibility and audit purposes.
 
 ## Methodology: Systems Thinking in AI
 My approach utilizes **Systems Thinking**—refined through years of managing complex retail operations—to identify subtle cracks in AI behavioral parameters. 
